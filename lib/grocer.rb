@@ -30,6 +30,3 @@ def consolidate_cart(cart)
   end
   niu_cart
 end
-
-
-  
